@@ -13,4 +13,4 @@ class Config:
     PROJECT_ID = os.environ.get('PROJECT_ID')
     CLOUD_STORAGE_BUCKET = os.environ.get('CLOUD_STORAGE_BUCKET')
     API_KEY = os.environ.get('API_KEY')
-    GOOGLE_APPLICATION_CREDENTIALS = os.environ.get('partygo-app-270210-84bf2ba4c00d.json')
+    GOOGLE_APPLICATION_CREDENTIALS = os.environ.get('GOOGLE_APPLICATION_CREDENTIALS')
